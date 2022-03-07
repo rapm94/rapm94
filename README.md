@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Miranda proyect**
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **React Native and Rust**
 
 - 💬 Ask me about **Flutter, JS, React and Node.js**
 
