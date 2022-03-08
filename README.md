@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl Puigbó.</h1>
 <h3 align="center">A passionate FullStack Developer from Spain.</h3>
 
-- 🔭 I’m currently working on **Miranda proyect**
+- 🔭 I’m currently working on **Global Alumni**
 
 - 🌱 I’m currently learning **React Native and Rust**
 
