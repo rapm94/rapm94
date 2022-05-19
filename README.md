@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cognizant**
 
-- 🌱 I’m currently learning **React Native and Rust**
+- 🌱 I’m currently learning **React Native and JAVA/Spring Boot**
 
 - 💬 Ask me about **Flutter, JS, React and Node.js**
 
