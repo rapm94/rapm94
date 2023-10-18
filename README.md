@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl Puigbó.</h1>
 <h3 align="center">A passionate FullStack Developer from Spain.</h3>
 
-- 🔭 I’m currently working on **Cognizant**
+- 🔭 I’m currently working on **Drool design studio**
 
 - 🌱 I’m currently learning **React Native and JAVA/Spring Boot**
 
@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rapm94&show_icons=true&locale=en&layout=compact" alt="rapm94" /></p>
 
-[comment]:<>(<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapm94&show_icons=true&locale=en" alt="rapm94" /></p>)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapm94&show_icons=true&locale=en" alt="rapm94" /></p>
